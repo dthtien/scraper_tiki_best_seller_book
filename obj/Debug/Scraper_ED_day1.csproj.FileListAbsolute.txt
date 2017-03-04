@@ -1,0 +1,6 @@
+c:\users\acer v5\documents\visual studio 2015\Projects\Scraper_ED_day1\Scraper_ED_day1\bin\Debug\Scraper_ED_day1.exe.config
+c:\users\acer v5\documents\visual studio 2015\Projects\Scraper_ED_day1\Scraper_ED_day1\bin\Debug\Scraper_ED_day1.exe
+c:\users\acer v5\documents\visual studio 2015\Projects\Scraper_ED_day1\Scraper_ED_day1\bin\Debug\Scraper_ED_day1.pdb
+c:\users\acer v5\documents\visual studio 2015\Projects\Scraper_ED_day1\Scraper_ED_day1\obj\Debug\Scraper_ED_day1.csprojResolveAssemblyReference.cache
+c:\users\acer v5\documents\visual studio 2015\Projects\Scraper_ED_day1\Scraper_ED_day1\obj\Debug\Scraper_ED_day1.exe
+c:\users\acer v5\documents\visual studio 2015\Projects\Scraper_ED_day1\Scraper_ED_day1\obj\Debug\Scraper_ED_day1.pdb
