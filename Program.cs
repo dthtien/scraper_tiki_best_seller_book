@@ -16,11 +16,11 @@ namespace Scraper_ED_day1
             Console.WriteLine("Scraping....");
 
             TinTrinhLibrary.WebClient client = new TinTrinhLibrary.WebClient();
+
             StreamWriter file = new StreamWriter(@"D:\study\ECDESI\products.txt");
-            for (int t = 1; t <= 4; t++)
+            for (int t = 1; t <= 4; t++) // get multiple page
             {
-                //string path_tiki = $"https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p={t}";
-                //Console.WriteLine(path_tiki);
+
                 string html_source = client.Get($"https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p={t}", "https://tiki.vn/", "");
                 int i = 0;
 
